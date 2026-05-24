@@ -1,0 +1,11 @@
+model = "codex-mini"
+approval_policy = "suggest"
+sandbox_mode = "read-only"
+
+[sandbox_settings]
+network_access = false
+write_access = false
+
+[history]
+max_entries = 100
+persistence = true

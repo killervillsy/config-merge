@@ -1,0 +1,5 @@
+model = "codex-full"
+approval_policy = "auto-edit"
+
+[sandbox_settings]
+network_access = true

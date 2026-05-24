@@ -1,0 +1,16 @@
+{
+  "name": "config-merge",
+  "version": "1.0.0",
+  "description": "Merge switch config with base config for Claude Code and Codex",
+  "main": "src/merge.js",
+  "bin": {
+    "cm": "./bin/cm.js"
+  },
+  "scripts": {
+    "test": "node --test test/merge.test.js"
+  },
+  "dependencies": {
+    "@iarna/toml": "^2.2.5"
+  },
+  "type": "module"
+}
