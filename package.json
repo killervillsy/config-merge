@@ -4,7 +4,7 @@
   "description": "Merge switch config with base config for Claude Code and Codex",
   "main": "src/merge.js",
   "bin": {
-    "cm": "./bin/cm.js"
+    "cm": "bin/cm.js"
   },
   "scripts": {
     "test": "node --test test/merge.test.js"
