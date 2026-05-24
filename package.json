@@ -1,6 +1,6 @@
 {
   "name": "@villsy/config-merge",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Merge switch config with base config for Claude Code and Codex",
   "main": "src/merge.js",
   "bin": {
