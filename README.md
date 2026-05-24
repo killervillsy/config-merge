@@ -18,6 +18,18 @@
 
 ## 安装
 
+全局安装：
+
+```bash
+npm install -g @villsy/config-merge
+```
+
+安装后即可使用：
+
+```bash
+cm --help
+```
+
 在项目目录中安装依赖：
 
 ```bash

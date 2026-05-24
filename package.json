@@ -1,7 +1,18 @@
 {
   "name": "@villsy/config-merge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Merge switch config with base config for Claude Code and Codex",
+  "keywords": [
+    "config",
+    "merge",
+    "cli",
+    "json",
+    "toml",
+    "settings",
+    "codex",
+    "claude-code"
+  ],
+  "license": "MIT",
   "main": "src/merge.js",
   "bin": {
     "cm": "bin/cm.js"

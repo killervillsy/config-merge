@@ -18,6 +18,18 @@ It is designed to:
 
 ## Installation
 
+Install globally:
+
+```bash
+npm install -g @villsy/config-merge
+```
+
+Then use:
+
+```bash
+cm --help
+```
+
 Install dependencies in this project directory:
 
 ```bash
